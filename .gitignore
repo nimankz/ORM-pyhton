@@ -19,3 +19,4 @@ src/__pycache__/
 .venv
 /poetry.toml
 
+orm.db
